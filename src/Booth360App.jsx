@@ -1,0 +1,1 @@
+export default function Booth360App(){return null;}

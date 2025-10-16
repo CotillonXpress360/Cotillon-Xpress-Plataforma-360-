@@ -1,2 +1,1 @@
-# Cotillon-Xpress-Plataforma-360-
-Eventos Cotillon Xpress 360
+Sube el contenido de esta carpeta al repo. Accede a Actions y ejecuta Build Android APK.

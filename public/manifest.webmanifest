@@ -1,0 +1,13 @@
+{
+  "name": "Booth 360",
+  "short_name": "Booth360",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/icons/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
